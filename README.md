@@ -1,2 +1,2 @@
 ## otushomework
-<image src="/images/BDscheme.png" alt="BD">
+<image src="/Изображения/BDscheme.png" alt="BD">
