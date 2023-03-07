@@ -1,2 +1,2 @@
 ## otushomework
-![BDScheme](/Изображения/BDscheme.PNG)
+<image src="/images/BDscheme.png" alt="BD">
