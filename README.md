@@ -1,2 +1,2 @@
 ## otushomework
-![BD](https://ibb.co/g6KFfLN)
+![bd_scheme](/Изображения/BDscheme.jpg)
