@@ -1,0 +1,4 @@
+ssh otus@10.128.0.34
+
+
+sudo -i -u postgres
