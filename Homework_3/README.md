@@ -1,1 +1,1 @@
-![WM](https://user-images.githubusercontent.com/2023-03-31-164017)
+![WM](C:\Users\mrdra\OneDrive\Рабочий стол\123)
